@@ -1,4 +1,4 @@
-class BasePageElement(object):
+class BasePageElement(object): # page getters and setters stubs
     def __get__(self, obj, cls=None):
         pass
 
