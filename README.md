@@ -1,5 +1,5 @@
-# OpenGov-Test-Automation-Challenge
-OpenGov Test Automation Challenge
+# Weppy - web testing framework with page objects implementation. 
+Easily automate your website testing automation process. Just replace website link, locators, put your own assertions and have fun :)
 ___
 Language used: **Python 2.7**
 
